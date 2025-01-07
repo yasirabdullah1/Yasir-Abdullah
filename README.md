@@ -26,4 +26,4 @@ I am a passionate software developer with a keen interest in open source project
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=flat&logo=linkedin)](https://www.linkedin.com/in/yasirabdullah1/)
-[![Twitter](https://img.shields.io/badge/-Twitter-333?style=flat&logo=twitter)](https://twitter.com/yasirabdullah1)
+[![Twitter](https://img.shields.io/badge/-Twitter-333?style=flat&logo=twitter)]([https://twitter.com/yasirabdullah1](https://x.com/YasirAb94932710?t=gk4e0tXALhEAdgFG8tkAoA&s=09))
