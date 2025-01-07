@@ -25,5 +25,5 @@ I am a passionate software developer with a keen interest in open source project
 ![Yasir's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasirabdullah1&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=flat&logo=linkedin)](https://www.linkedin.com/in/yasirabdullah1/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=flat&logo=linkedin)]https://www.instagram.com/yasir_abdullah_07?igsh=MWRwaTgwM2syejJzdw==
 [![Twitter](https://img.shields.io/badge/-Twitter-333?style=flat&logo=twitter)]([https://twitter.com/yasirabdullah1](https://x.com/YasirAb94932710?t=gk4e0tXALhEAdgFG8tkAoA&s=09))
