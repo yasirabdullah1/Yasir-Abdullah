@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yasir Abdullah</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Cyber Security Anylist from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasirabdullah1&label=Profile%20views&color=0e75b6&style=flat" alt="yasirabdullah1" /> </p>
 
